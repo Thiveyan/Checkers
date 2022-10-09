@@ -16,7 +16,7 @@ You win the game when the opponent has no more pieces or can't move (even if he/
 Thiveyan Jegasothinathan
 
 Matthew Breen 
-#References:
+# References:
 Rules: https://www.officialgamerules.org/checkers
 
 
